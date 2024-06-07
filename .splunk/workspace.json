@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows日志事件ID列表(604个).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "windows日志事件ID列表(604个).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "windows日志事件ID列表(604个).md"
+                "file": "未命名.md"
               }
             }
           },
@@ -155,9 +153,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c42345964914dfcc",
+  "active": "1f6139cc2dcb0bef",
   "lastOpenFiles": [
-    "README.md",
-    "windows日志事件ID列表(604个).md"
+    "windows日志事件ID列表(604个).md",
+    "未命名.md",
+    "新建 文本文档.txt",
+    "新建文件夹",
+    "README.md"
   ]
 }
