@@ -151,11 +151,13 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
   "active": "c42345964914dfcc",
   "lastOpenFiles": [
+    "README.md",
     "windows日志事件ID列表(604个).md"
   ]
 }
